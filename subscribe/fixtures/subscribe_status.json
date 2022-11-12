@@ -1,0 +1,26 @@
+[
+  {
+    "model": "subscribe.SubscribeStatus",
+    "pk": 1,
+    "fields": {
+      "name": "Отсутствует",
+      "value": "no"
+    }
+  },
+  {
+    "model": "subscribe.SubscribeStatus",
+    "pk": 2,
+    "fields": {
+      "name": "Просрочена",
+      "value": "expired"
+    }
+  },
+  {
+    "model": "subscribe.SubscribeStatus",
+    "pk": 3,
+    "fields": {
+      "name": "Активна",
+      "value": "active"
+    }
+  }
+]

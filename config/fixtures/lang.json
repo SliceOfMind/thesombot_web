@@ -1,0 +1,18 @@
+[
+  {
+    "model": "config.Language",
+    "pk": 0,
+    "fields": {
+      "language_code": "en",
+      "name": "English"
+    }
+  },
+  {
+    "model": "config.Language",
+    "pk": 1,
+    "fields": {
+      "language_code": "ru",
+      "name": "Russian"
+    }
+  }
+]

@@ -1,0 +1,28 @@
+site_name: Slice of Mind
+plugins:
+    - search
+    - awesome-pages
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+
+nav:
+    - Welcome to docs: index.md
+    - Install guide: admin/install_guide.md
+    - Bot: bot/bot.md
+    - Admin: admin/admin.md
+    - Localization: localization.md
+    - Models: admin/models.md
+    - Other: other.md
+    - Docs guide: docs.md
+
+theme:
+  name: material
+
+dev_addr:
+    127.0.0.1:8200
+
+collapse_single_pages: true

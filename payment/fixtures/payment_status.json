@@ -1,0 +1,23 @@
+[
+  {
+    "model": "payment.PaymentStatus",
+    "pk": 1,
+    "fields": {
+      "name": "Закончил оплату"
+    }
+  },
+  {
+    "model": "payment.PaymentStatus",
+    "pk": 2,
+    "fields": {
+      "name": "Не закончил оплату"
+    }
+  },
+  {
+    "model": "payment.PaymentStatus",
+    "pk": 3,
+    "fields": {
+      "name": "Не важно"
+    }
+  }
+]

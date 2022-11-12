@@ -1,0 +1,9 @@
+[
+  {
+    "model": "config.Settings",
+    "pk": 1,
+    "fields": {
+      "name": "Общие настройки"
+    }
+  }
+]

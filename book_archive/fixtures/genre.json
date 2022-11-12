@@ -1,0 +1,569 @@
+[
+    {
+        "model": "book_archive.Genre",
+        "pk": 1,
+        "fields": {
+            "title": "PLL_Commentary"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 2,
+        "fields": {
+            "title": "PLL_Textbook"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 3,
+        "fields": {
+            "title": "PLL_Principles"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 4,
+        "fields": {
+            "title": "PLL_Goodfaith"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 5,
+        "fields": {
+            "title": "PLL_FoC"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 6,
+        "fields": {
+            "title": "PLL_Entities"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 7,
+        "fields": {
+            "title": "PLL_Governance"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 8,
+        "fields": {
+            "title": "PLL_Reorganisation"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 9,
+        "fields": {
+            "title": "PLL_Liquidation"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 10,
+        "fields": {
+            "title": "PLL_Insolvency"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 11,
+        "fields": {
+            "title": "PLL_Objects"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 12,
+        "fields": {
+            "title": "PLL_Immovables"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 13,
+        "fields": {
+            "title": "PLL_Movables"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 14,
+        "fields": {
+            "title": "PLL_Securities"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 15,
+        "fields": {
+            "title": "PLL_Money"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 16,
+        "fields": {
+            "title": "PLL_Transactions"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 17,
+        "fields": {
+            "title": "PLL_Validity"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 18,
+        "fields": {
+            "title": "PLL_Clauses"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 19,
+        "fields": {
+            "title": "PLL_Form"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 20,
+        "fields": {
+            "title": "PLL_Agency"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 21,
+        "fields": {
+            "title": "PLL_Terms"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 22,
+        "fields": {
+            "title": "PLL_Property"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 23,
+        "fields": {
+            "title": "PLL_PropertyDefenses"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 24,
+        "fields": {
+            "title": "PLL_PropertyRights"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 25,
+        "fields": {
+            "title": "PLL_SecuredTransactions"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 26,
+        "fields": {
+            "title": "PLL_Pledge"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 27,
+        "fields": {
+            "title": "PLL_Surety"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 28,
+        "fields": {
+            "title": "PLL_Guarantee"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 29,
+        "fields": {
+            "title": "PLL_Penalty"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 30,
+        "fields": {
+            "title": "PLL_IP"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 31,
+        "fields": {
+            "title": "PLL_Author"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 32,
+        "fields": {
+            "title": "PLL_Patent"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 33,
+        "fields": {
+            "title": "PLL_Individualisation "
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 34,
+        "fields": {
+            "title": "PLL_Computers"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 35,
+        "fields": {
+            "title": "PLL_Inheritance"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 36,
+        "fields": {
+            "title": "PLL_Obligations"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 37,
+        "fields": {
+            "title": "PLL_CoB"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 38,
+        "fields": {
+            "title": "PLL_EoB"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 39,
+        "fields": {
+            "title": "PLL_Cession"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 40,
+        "fields": {
+            "title": "PLL_ToB"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 41,
+        "fields": {
+            "title": "PLL_Interpretation"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 42,
+        "fields": {
+            "title": "PLL_Liability"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 43,
+        "fields": {
+            "title": "PLL_Sales"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 44,
+        "fields": {
+            "title": "PLL_Lease"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 45,
+        "fields": {
+            "title": "PLL_Services"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 46,
+        "fields": {
+            "title": "PLL_Labor"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 47,
+        "fields": {
+            "title": "PLL_Transporation"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 48,
+        "fields": {
+            "title": "PLL_Credit"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 49,
+        "fields": {
+            "title": "PLL_Insurance"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 50,
+        "fields": {
+            "title": "PLL_Torts"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 51,
+        "fields": {
+            "title": "PLL_UnjustEnrichment"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 52,
+        "fields": {
+            "title": "PLL_IPL"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 53,
+        "fields": {
+            "title": "PLL_DR (Dispute Resolution)"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 54,
+        "fields": {
+            "title": "PLL_Arbitration"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 55,
+        "fields": {
+            "title": "PLL_Litigation"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 56,
+        "fields": {
+            "title": "PLL_ADR (Alternative Dispute Resolution)"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 57,
+        "fields": {
+            "title": "PLL_Moot"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 58,
+        "fields": {
+            "title": "PLL_Skills"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 59,
+        "fields": {
+            "title": "PLL_LE"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 60,
+        "fields": {
+            "title": "PLL_Video"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 61,
+        "fields": {
+            "title": "PLL_Cases"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 62,
+        "fields": {
+            "title": "PLL_Misc"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 63,
+        "fields": {
+            "title": "PLL_Roman"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 64,
+        "fields": {
+            "title": "PLL_OldRussia"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 65,
+        "fields": {
+            "title": "PLL_German"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 66,
+        "fields": {
+            "title": "PLL_French"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 67,
+        "fields": {
+            "title": "PLL_Swiss"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 68,
+        "fields": {
+            "title": "PLL_Italian"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 69,
+        "fields": {
+            "title": "PLL_Cyprian"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 70,
+        "fields": {
+            "title": "PLL_England"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 71,
+        "fields": {
+            "title": "PLL_Commonwealth"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 72,
+        "fields": {
+            "title": "PLL_USA"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 73,
+        "fields": {
+            "title": "PLL_Tax"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 74,
+        "fields": {
+            "title": "PLL_TaxTypes"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 75,
+        "fields": {
+            "title": "PLL_TaxInternational"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 76,
+        "fields": {
+            "title": "PLL_TaxPayers"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 77,
+        "fields": {
+            "title": "PLL_TaxViolations"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 78,
+        "fields": {
+            "title": "PLL_Energy"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 79,
+        "fields": {
+            "title": "PLL_Banking"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 80,
+        "fields": {
+            "title": "PLL_Antitrust"
+        }
+    },
+    {
+        "model": "book_archive.Genre",
+        "pk": 81,
+        "fields": {
+            "title": "PLL_Constituional"
+        }
+    }
+]
